@@ -42,13 +42,13 @@ I am a passionate and driven Master's degree student in Applied Mathematics for 
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASMAAAIT&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMAAAIT&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASMAAAIT&show_icons=true&theme=dracula&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMAAAIT&layout=compact&theme=dracula" height="170" />
 </div>
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="130" src="https://i.imgflip.com/65efzo.gif"  />
 ---
 
 ### 📫 How to Reach Me  

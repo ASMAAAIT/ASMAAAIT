@@ -1,9 +1,13 @@
-<h1 align="center">Hi there, I'm Asmaa! 👋</h1>
+<h1 align="center"> 
+  Hi there, I'm Asmaa! 👋
+</h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Coding Girl Animation">
+</div>
 <p align="center">
   <em>Master's Student in Applied Mathematics for Data Science | Data Analyst | Software Engineer</em>
 </p>
-
 ---
 
 ### 🚀 About Me  
@@ -28,6 +32,11 @@ I am a passionate and driven Master's degree student in Applied Mathematics for 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo" />
 </div>  
 
 ---
@@ -40,15 +49,12 @@ I am a passionate and driven Master's degree student in Applied Mathematics for 
 
 ---
 
-### 🐍 Contribution Snake  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/ASMAAAIT/output/snake.svg" alt="Snake animation" />
-</div>
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ---
 
 ### 📫 How to Reach Me  
 - **LinkedIn**: [linkedin.com/in/asmaa](#)  
 - **Email**: asmaaaitelhaj0@gmail.com  
 - **Portfolio**: [Coming soon...]  
+
 
